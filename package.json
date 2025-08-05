@@ -1,0 +1,39 @@
+{
+  "name": "paxeer-ecosystem-connector",
+  "version": "1.0.0",
+  "description": "Universal bridge connecting traditional wallets and smart contract Wallet VMs for seamless ecosystem interaction",
+  "main": "PaxeerEcosystemConnector.sol",
+  "keywords": [
+    "ecosystem-connector",
+    "wallet-bridge",
+    "universal-interface", 
+    "smart-routing",
+    "ethereum",
+    "solidity",
+    "dapp-integration",
+    "unified-experience",
+    "paxeer"
+  ],
+  "author": "Paxeer Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paxeer/ecosystem-connector"
+  },
+  "homepage": "https://paxeer.network",
+  "bugs": {
+    "url": "https://github.com/paxeer/ecosystem-connector/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0", 
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0"
+  },
+  "files": [
+    "PaxeerEcosystemConnector.sol",
+    "README.md"
+  ]
+}
