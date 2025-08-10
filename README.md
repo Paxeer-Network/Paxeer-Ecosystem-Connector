@@ -6,8 +6,8 @@ PaxeerEcosystemConnector is the unified bridge that seamlessly connects traditio
 
 ## 📍 Deployment
 
-**Network**: Paxeer Network (Chain ID: 1313161822)  
-**Contract Address**: `0x4EE5560D911fB9aa8d463edcF0faB3C4F75153A3`  
+**Network**: Paxeer Network (Chain ID: 80000)  
+**Contract Address**: `0xDf8E62Be8E3fA3F4FB04Bf3089D58b2bEa16CAe3`  
 **Verification**: ⏳ Pending (requires constructor args)  
 **Constructor Args**: WalletManager + WalletVMFactory addresses
 
